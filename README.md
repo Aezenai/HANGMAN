@@ -6,5 +6,4 @@ This game has been coded with Python
 
 # What I Learned
 
-Improved upon my abilities to use dictionaries
-Honed on skills I alrea
+Improved upon my abilities to utilise dictionaries
