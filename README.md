@@ -6,4 +6,5 @@ This game has been coded with Python
 
 # What I Learned
 
-Improved upon my abilities to utilise dictionaries
+How to use triple quotation marks with python to display images on separate lines
+Improved upon single line iteration skills
