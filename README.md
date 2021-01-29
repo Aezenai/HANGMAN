@@ -7,4 +7,5 @@ This game has been coded with Python
 # What I Learned
 
 How to use triple quotation marks with python to display images on separate lines
+
 Improved upon single line iteration skills
